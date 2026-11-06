@@ -11,7 +11,7 @@ I'm interested in software development, especially games and connected devices. 
 
 ## 🧩 Programming foundations
 
-I practice breaking problems into smaller steps, organizing logic with functions and classes, and checking that inputs are valid. My projects have given me practice with object-oriented programming, separating responsibilities, and working with data from forms, databases, and sensors.
+I break problems into smaller pieces, use functions and classes to organize my code, and validate inputs before processing them. Through my projects, I’ve applied object-oriented programming and separated responsibilities while working with data from forms, databases, and sensors.
 
 ## 🚀 Selected projects
 
