@@ -5,7 +5,9 @@ I'm interested in software development, especially games and connected devices. 
 ## 🧰 Languages and tools
 
 - **Languages:** Python, Java, C#, PHP, and JavaScript. I also use MicroPython on the ESP32.
-- **Tools and technologies:** Git, GitHub, MySQL, ESP32, and MQTT.
+- **Framework and database:** Laravel and MySQL.
+- **Development tools:** Git, GitHub, and WampServer.
+- **IoT:** ESP32 and MQTT.
 
 ## 🧩 Programming foundations
 
@@ -16,6 +18,7 @@ I practice breaking problems into smaller steps, organizing logic with functions
 - **[JuegoPractica](https://github.com/Francesco-Iemma24/JuegoPractica)** · A game project in C#.
 - **[SLS Smart Lighting](https://github.com/JorgeS194/sls-smart-lighting)** · A team project that uses an ESP32, MicroPython, and MQTT for smart lighting and sensor telemetry.
 - **[Proyecto1](https://github.com/Francesco-Iemma24/Proyecto1)** · Nine mathematical exercises in PHP that demonstrate problem solving, input validation, and separation of models, views, and controllers.
+- **[CrudFetch](https://github.com/Francesco-Iemma24/CrudFetch)** · A team project for managing products with PHP, MySQL, and JavaScript, including asynchronous search with the Fetch API.
 
 ## 🌱 What I want to learn next
 
