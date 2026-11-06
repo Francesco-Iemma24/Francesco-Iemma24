@@ -22,4 +22,4 @@ I break problems into smaller pieces, use functions and classes to organize my c
 
 ## 🌱 What I’m working toward
 
-I’m building my Python skills through hands-on projects. I’d also like to create more game mechanics in C# and get better at testing and debugging my code. Writing project documentation in English helps me practice explaining how my code works.
+I’m building my Python skills through hands-on projects. I’d also like to create more game mechanics in C# and get better at testing and debugging my code.
