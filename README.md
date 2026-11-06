@@ -20,6 +20,6 @@ I break problems into smaller pieces, use functions and classes to organize my c
 - **[Proyecto1](https://github.com/Francesco-Iemma24/Proyecto1)** · Nine mathematical exercises in PHP that demonstrate problem solving, input validation, and separation of models, views, and controllers.
 - **[CrudFetch](https://github.com/Francesco-Iemma24/CrudFetch)** · A team project for managing products with PHP, MySQL, and JavaScript, including asynchronous search with the Fetch API.
 
-## 🌱 What I want to learn next
+## 🌱 What I’m working toward
 
-I'm currently enjoying practicing Python and want to build more projects with it. I'm also interested in building game mechanics in C# and improving how I test and debug my code. I'm also practicing English as I learn to document my projects and explain how they work.
+I’m building my Python skills through hands-on projects. I’d also like to create more game mechanics in C# and get better at testing and debugging my code. Writing project documentation in English helps me practice explaining how my code works.
